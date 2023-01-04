@@ -1,5 +1,5 @@
 {
-  "name": "fcc-api-projects-boilerplate",
+  "name": "fcc-api-projects-timestamp",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
   "main": "index.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/arjunrvan/freeCodeCamp_timestamp"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://arjunrvan.github.io/freeCodeCamp_timestamp/",
+  "author": "Arjun",
   "keywords": [
     "node",
     "express",
