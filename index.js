@@ -19,7 +19,7 @@ app.get("/", function (req, res) {
 });
 
 // your first API endpoint...
-app.get("/api/:dateInput", function (req, res) {
+app.get("/api/:dateInput?", function (req, res) {
   const dateString = req.params.dateInput;
 
   let date;
